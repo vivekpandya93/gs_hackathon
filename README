@@ -1,4 +1,4 @@
-README- Dynamic form made with pure HTML/CSS and JavaScript
+README- Dynamic form made with pure HTML/CSS and Vanilla JavaScript
 
 
 You can implement the component by placing js/form.js into a script tag and injecting the form.css file, and adding the "delete.png" into the project 
