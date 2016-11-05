@@ -1,0 +1,20 @@
+README- Dynamic form made with pure HTML/CSS and JavaScript
+
+
+You can implement the component by placing js/form.js into a script tag and injecting the form.css file, and adding the "delete.png" into the project 
+
+instatiate the following tags on the DOM: <dynamic-form></dynamic-form>
+
+- The initial is an empty input box, and an input button.
+- If the user enters input text to the box, clicking ADD INPUT enters the text to a list.
+- The user can delete the list element by clicking the 'delete' icon.
+- On form submit, the list elements are submitted as an array and can be viewed on the console.
+
+
+This can be reused wherever on the DOM. 
+
+Submitting a form results in the result of that specific form being submitted. Results of this can be seen on the console. 
+
+An example is shown in index.html. 
+
+
